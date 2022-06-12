@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 
 - 🌱 Atualmente estudando sobre **react native e web design**
 
+- 🧑‍💻 **Analista e Desenvolvedor de Sistemas**
+
 - 👨‍💻 Alguns dos meus projetos de design você encontra em [behance.net/allanmirandak](behance.net/allanmirandak)
 
 - 📫 Meu contato por e-mail é **allansmiranda3@gmail.com**
 
-- ⚡ Fun fact **tenho transtorno de déficit de atenção**
+- ⚡ Fun fact **tenho transtorno de déficit de atenção 🧠**
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
