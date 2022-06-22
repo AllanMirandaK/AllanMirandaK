@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 Meu contato por e-mail é **allansmiranda3@gmail.com**
 
-- ⚡ Fun fact **tenho transtorno de déficit de atenção 🧠**
+<!--- ⚡ Fun fact **tenho transtorno de déficit de atenção 🧠**-->
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
