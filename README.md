@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Olá 👋, eu sou o Allan</h1>
 <h3 align="center">Entusiasta em desenvolvimento, em design e em redes de internet.</h3>
 
-- 🔭 Atualmente trabalhando como **coordenador técnico**
+<!-- - 🔭 Atualmente trabalhando como **coordenador técnico**
 
-- 🌱 Atualmente estudando sobre **react native e web design**
+- 🌱 Atualmente estudando sobre **react native e web design** -->
 
 - 🧑‍💻 **Analista e Desenvolvedor de Sistemas**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Redes sociais:</h3>
 <p align="left">
-<a href="https://twitter.com/allanmirandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allanmirandak" height="30" width="40" /></a>
+<!--<a href="https://twitter.com/allanmirandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allanmirandak" height="30" width="40" /></a>-->
 <a href="https://instagram.com/allanmirandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="allanmirandak" height="30" width="40" /></a>
 <a href="https://www.behance.net/allanmirandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="allanmirandak" height="30" width="40" /></a>
 </p>
