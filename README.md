@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Olá 👋, eu sou o Allan</h1>
-<h3 align="center">Entusiasta em desenvolvimento, em design e em redes de internet.</h3>
+<h3 align="center">Entusiasta em desenvolvimento e em design.</h3>
 
 <!-- - 🔭 Atualmente trabalhando como **coordenador técnico**
 
